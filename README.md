@@ -24,7 +24,9 @@
 [Texto da imagem](https://gartic.com.br/imgs/mural/su/supersonic_br/um-desenho-qualquer-5.png)
 
 
-![Texto da Imagem](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)
+![Texto da Imagem](
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          )
 
 `system.out.println();`
 
