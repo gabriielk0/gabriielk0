@@ -1,49 +1,17 @@
-## Hi there 👋
+## Sejam Bem-Vindos aos meus Projetos! 👋
 
-<!-- Cabeçalhos -->
+#### Olá, me chamo Gabriel
+--------------
 
-# Titulo 1
-## Titulo 2
-### Titulo 3
-#### Titulo 4
-##### Titulo 5
-###### Titulo 6
+[Acesse o meu Linkedin](https://www.linkedin.com/in/gabriel-carvalho-o/)
 
-*italico* ou _italico_
-**negrito** ou __negrito__
-***negrito e italico*** ou ___negrito e italico___
+-------
+### Minha Tecnologias
 
-- Lista 1
-- Lista 2
-  - Sublista
-
-1. Lista 1
-2. Lista 2
-   1. Sublista
-
-[Texto da imagem](https://gartic.com.br/imgs/mural/su/supersonic_br/um-desenho-qualquer-5.png)
+![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)
 
 
-![Texto da Imagem](
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-          )
-
-`system.out.println();`
-
-``` 
-system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();system.out.println(); 
-```
-
-> Texto de Citações
-
-| Cabeçalho 1 | Cabeçalho 2 | Cabeçalho 3 |
-|-------------|-------------|-------------|
-|Texto 1      | Texto 2     | Texto 3     |
-|Texto 1      | Texto 2     | Texto 3     |
-
-
- [X] Tarefa 1 <br>
- [ ] Tarefa 2
+<img >
 
 
 <!--
