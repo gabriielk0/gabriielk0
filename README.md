@@ -1,9 +1,11 @@
 ## Sejam Bem-Vindos aos meus Projetos! 👋
 
-#### Olá, me chamo Gabriel
+#### 😃 Olá, me chamo Gabriel
+#### 🎓 Atualmente estou cursando o 6° semestre de Ciências da Computação.
+#### 💻 Sempre gostei muito de dados então pretendo meu especializar em Data Science
 --------------
 
-[Acesse o meu Linkedin](https://www.linkedin.com/in/gabriel-carvalho-o/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="10px"> [Acesse o meu Linkedin](https://www.linkedin.com/in/gabriel-carvalho-o/)
 
 -------
 ### Minha Tecnologias
