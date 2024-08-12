@@ -28,25 +28,9 @@
 |React: Desenvolvendo Aplicações WEB usando JSX e HOOKS | [Certificado Alura](https://cursos.alura.com.br/degree/certificate/4914b96b-beac-4461-a7bb-550253d755c8?lang=pt_BR)|
 
 ------------------
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabriielk0&card_width=320&theme=chartreuse-dark" />
+  <img height=200 align="center" width=350 src="https://github-readme-stats.vercel.app/api?username=gabriielk0&card_width=320&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriielk0&layout=compact&langs_count=8&card_width=auto&theme=chartreuse-dark" />
+  <img height=200 align="center" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriielk0&layout=compact&langs_count=8&card_width=auto&theme=chartreuse-dark" />
 </a>
-
-<!--
-**gabriielk0/gabriielk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
