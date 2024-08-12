@@ -5,7 +5,7 @@
 #### 💻 Sempre gostei muito de dados então pretendo meu especializar em Data Science
 --------------
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="10px"> [Acesse o meu Linkedin](https://www.linkedin.com/in/gabriel-carvalho-o/)
+[Acesse o meu Linkedin](https://www.linkedin.com/in/gabriel-carvalho-o/)
 
 -------
 ### Minha Tecnologias
@@ -27,11 +27,13 @@
 |Git e Github | [Certificado DIO]()|
 
 ------------------
-
-![Gabriel Github Stats](https://github-readme-stats.vercel.app/api?username=gabriielk0&show_icons=true&theme=chartreuse-dark)
+<p align="center">
 
 ![Top Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriielk0&layout=compact&theme=chartreuse-dark)
+![Gabriel Github Stats](https://github-readme-stats.vercel.app/api?username=gabriielk0&show_icons=true&theme=chartreuse-dark)
 
+
+</p>
 
 <!--
 **gabriielk0/gabriielk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
