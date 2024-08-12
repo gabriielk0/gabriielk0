@@ -8,10 +8,23 @@
 -------
 ### Minha Tecnologias
 
-![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="70rem">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="70rem">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70rem">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="70rem">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70rem">
 
+------------------
 
-<img >
+| Curso | Certificados |
+|-------|--------------|
+|Git e Github | [Certificado DIO]()|
+|Git e Github | [Certificado DIO]()|
+|Git e Github | [Certificado DIO]()|
+
+------------------
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriielk0&show_icons=true&theme=radical)
 
 
 <!--
