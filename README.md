@@ -8,11 +8,13 @@
 -------
 ### Minha Tecnologias
 
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="70rem">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="70rem">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70rem">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="70rem">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70rem">
+</p>
 
 ------------------
 
@@ -24,7 +26,8 @@
 
 ------------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriielk0&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriielk0&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriielk0&layout=compact)
 
 
 <!--
