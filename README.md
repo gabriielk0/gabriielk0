@@ -24,7 +24,7 @@
 [Texto da imagem](https://gartic.com.br/imgs/mural/su/supersonic_br/um-desenho-qualquer-5.png)
 
 
-![Texto da Imagem](https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/01_solar_orbiter.webp?w=1450&h=816)
+![Texto da Imagem](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)
 
 `system.out.println();`
 
