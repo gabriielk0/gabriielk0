@@ -28,9 +28,11 @@
 |React: Desenvolvendo Aplicações WEB usando JSX e HOOKS | [Certificado Alura](https://cursos.alura.com.br/degree/certificate/4914b96b-beac-4461-a7bb-550253d755c8?lang=pt_BR)|
 
 ------------------
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" width=350 src="https://github-readme-stats.vercel.app/api?username=gabriielk0&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriielk0&layout=compact&langs_count=8&theme=chartreuse-dark" />
-</a>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" width=350 src="https://github-readme-stats.vercel.app/api?username=gabriielk0&theme=chartreuse-dark" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriielk0&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
+    </a>
+</p>
