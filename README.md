@@ -23,8 +23,9 @@
 | Curso | Certificados |
 |-------|--------------|
 |Git e Github | [Certificado DIO]()|
-|Git e Github | [Certificado DIO]()|
-|Git e Github | [Certificado DIO]()|
+|HTML e CSS para projetos WEB | [Certificado Alura](https://cursos.alura.com.br/degree/certificate/a06d1d2c-8cb4-4081-9f88-aeab4bb173ab?lang=pt_BR)|
+|Aplicações WEB com JavaScript | [Certificado Alura](https://cursos.alura.com.br/degree/certificate/b5250a44-d755-472a-906d-5f02b6a69ccc?lang=pt_BR)|
+|React: Desenvolvendo Aplicações WEB usando JSX e HOOKS | [Certificado Alura](https://cursos.alura.com.br/degree/certificate/4914b96b-beac-4461-a7bb-550253d755c8?lang=pt_BR)|
 
 ------------------
 
@@ -33,7 +34,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabriielk0&theme=chartreuse-dark" />
  </a>
  <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriielk0&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriielk0&layout=compact&langs_count=8&card_width=300&theme=chartreuse-dark" />
  </a>
 </p>
 
