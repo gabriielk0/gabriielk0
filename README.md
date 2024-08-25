@@ -23,7 +23,7 @@
 
 | Curso | Duração | Certificados |
 |-------|--------|------|
-|Git e Github | 10 horas |[Certificado DIO]()|
+|Git e Github | 10 horas |[Certificado DIO](https://www.dio.me/certificate/OVGKY8H3/share)|
 |HTML e CSS para projetos WEB | 52 horas |[Certificado Alura](https://cursos.alura.com.br/degree/certificate/a06d1d2c-8cb4-4081-9f88-aeab4bb173ab?lang=pt_BR)|
 |Aplicações WEB com JavaScript | 63 horas |[Certificado Alura](https://cursos.alura.com.br/degree/certificate/b5250a44-d755-472a-906d-5f02b6a69ccc?lang=pt_BR)|
 |React: Desenvolvendo Aplicações WEB usando JSX e HOOKS | 58 horas |[Certificado Alura](https://cursos.alura.com.br/degree/certificate/4914b96b-beac-4461-a7bb-550253d755c8?lang=pt_BR)|
