@@ -1,8 +1,8 @@
 ## Sejam Bem-Vindos aos meus Projetos! 👋
 
 #### 😃 Olá, me chamo Gabriel
-#### 🎓 Atualmente estou cursando o 6° semestre de Ciências da Computação.
-#### 💻 Sempre gostei muito de dados então pretendo meu especializar em Data Science
+#### 🎓 Atualmente estou cursando o 7° semestre de Ciências da Computação.
+#### 💻 Atualmente estou fazendo estágio na SERPRO
 --------------
 
 [Acesse o meu Linkedin](https://www.linkedin.com/in/gabriel-carvalho-o/)
