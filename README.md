@@ -29,7 +29,7 @@
 |React: Desenvolvendo Aplicações WEB usando JSX e HOOKS | 58 horas |[Certificado Alura](https://cursos.alura.com.br/degree/certificate/4914b96b-beac-4461-a7bb-550253d755c8?lang=pt_BR)|
 
 ------------------
-<div>
+<div margin=0>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width=500rem height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabriielk0&theme=chartreuse-dark" />
   </a>
