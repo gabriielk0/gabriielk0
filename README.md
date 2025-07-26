@@ -1,7 +1,7 @@
 ## Sejam Bem-Vindos aos meus Projetos! 👋
 
 #### 😃 Olá, me chamo Gabriel
-#### 🎓 Atualmente estou cursando o 7° semestre de Ciências da Computação.
+#### 🎓 Atualmente estou cursando o 8° semestre de Ciências da Computação.
 #### 💻 Atualmente estou fazendo estágio na SERPRO
 --------------
 
