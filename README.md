@@ -1,8 +1,8 @@
 ## Sejam Bem-Vindos aos meus Projetos! 👋
 
 #### 😃 Olá, me chamo Gabriel
-#### 🎓 Estou cursando o 8° semestre de Ciências da Computação.
-#### 💻 Atualmente estou fazendo estágio na SERPRO
+#### 🎓 Acabei de me formar em Ciências da Computação.
+#### 💻 Atualmente estou em busca de uma oportunidade de trabalho
 --------------
 
 [Acesse o meu Linkedin](https://www.linkedin.com/in/gabriel-carvalho-o/)
@@ -40,7 +40,7 @@
 |HTML e CSS para projetos WEB | 52 horas |[Certificado Alura](https://cursos.alura.com.br/degree/certificate/a06d1d2c-8cb4-4081-9f88-aeab4bb173ab?lang=pt_BR)|
 |Aplicações WEB com JavaScript | 63 horas |[Certificado Alura](https://cursos.alura.com.br/degree/certificate/b5250a44-d755-472a-906d-5f02b6a69ccc?lang=pt_BR)|
 |React: Desenvolvendo Aplicações WEB usando JSX e HOOKS | 58 horas |[Certificado Alura](https://cursos.alura.com.br/degree/certificate/4914b96b-beac-4461-a7bb-550253d755c8?lang=pt_BR)|
-|Docker | 5.5 horas |[Certificado Udemy]([https://cursos.alura.com.br/degree/certificate/4914b96b-beac-4461-a7bb-550253d755c8?lang=pt_BR](https://www.udemy.com/certificate/UC-a21242cd-92f1-4282-ae75-2a0bd9dc2352/))|
+|Docker | 5.5 horas |[Certificado Udemy](https://www.udemy.com/certificate/UC-a21242cd-92f1-4282-ae75-2a0bd9dc2352/)|
 
 ------------------
 <div margin=0>
