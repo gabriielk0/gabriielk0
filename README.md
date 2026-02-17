@@ -25,10 +25,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="70rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="70rem"/>
           
-          
-          
-
-          
 
 </p>
 
@@ -40,14 +36,5 @@
 |HTML e CSS para projetos WEB | 52 horas |[Certificado Alura](https://cursos.alura.com.br/degree/certificate/a06d1d2c-8cb4-4081-9f88-aeab4bb173ab?lang=pt_BR)|
 |Aplicações WEB com JavaScript | 63 horas |[Certificado Alura](https://cursos.alura.com.br/degree/certificate/b5250a44-d755-472a-906d-5f02b6a69ccc?lang=pt_BR)|
 |React: Desenvolvendo Aplicações WEB usando JSX e HOOKS | 58 horas |[Certificado Alura](https://cursos.alura.com.br/degree/certificate/4914b96b-beac-4461-a7bb-550253d755c8?lang=pt_BR)|
-|Docker | 5.5 horas |[Certificado Udemy](https://www.udemy.com/certificate/UC-a21242cd-92f1-4282-ae75-2a0bd9dc2352/)|
+|Docker | 5.5 horas |[Certificado Udemy](https://www.udemy.com/certificate/UC-a21242cd-92f1-4282-ae75-2a0bd9dc2352)|
 
-------------------
-<div margin=0>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img margin=0 width=400rem height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabriielk0&theme=chartreuse-dark" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img margin=0 width=400rem height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriielk0&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
-  </a>
-</div>
